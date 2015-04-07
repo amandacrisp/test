@@ -6,10 +6,15 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 <body>
-<header></header>
+<header>
+    THis is where the header goes
+</header>
 <main>
   <section>
-    <article></article>
+    <article>
+    
+    saldkfjl;kjsf
+    </article>
   </section>
   <aside></aside>
 </main>
